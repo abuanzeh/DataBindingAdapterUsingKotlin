@@ -15,6 +15,7 @@ This file shows how to use data binding adapter using kotlin
 
 ```
 android { 
+---
  buildFeatures {
         dataBinding true
         viewBinding true

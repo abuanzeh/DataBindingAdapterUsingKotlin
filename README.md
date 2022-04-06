@@ -12,6 +12,7 @@ This file shows how to use data binding adapter using kotlin
 # Notes 
 
 1- Add this to bulid.gradle Module :
+
 android { 
 ```
  buildFeatures {

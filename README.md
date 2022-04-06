@@ -13,8 +13,8 @@ This file shows how to use data binding adapter using kotlin
 
 1- Add this to bulid.gradle Module :
 
-android { 
 ```
+android { 
  buildFeatures {
         dataBinding true
         viewBinding true

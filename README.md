@@ -9,3 +9,12 @@ This file shows how to use data binding adapter using kotlin
 
 ![Alt text](https://firebasestorage.googleapis.com/v0/b/recalcerview.appspot.com/o/Screenshot_20220406-125659_dataBindingAdapter%5B1%5D.jpg?alt=media&token=fa2bdb5f-bf5e-4d34-8f57-f63d09a61754) 
 
+# Notes 
+1- Add this to bulid.gradle Module :
+android { 
+```
+ buildFeatures {
+        dataBinding true
+        viewBinding true
+    }
+}

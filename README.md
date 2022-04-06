@@ -1,7 +1,7 @@
 # DataBindingAdapterUsingKotlin
 
 # Explain 
-This file shows how to use data binding adapter using kotlin with .
+This file shows how to use data binding adapter using kotlin 
 
 # Screenshots
 
